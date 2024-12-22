@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+
+.webpage-title {
+    text-align: center;
+    font-size: 50px;
+    padding: 15px;
+    margin-bottom: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.students-info-table {
+    text-align: center;
+    margin: 0 auto;
+    background-color: gray;
+    border: solid 3px black;
+    width: 95%;
+    height: auto;
+}
+
+.table-head-data {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    background-color: gray;
+    border-bottom: solid 2px white;
+    border-right: solid 2px white;
+}
+
+.table-students-data {
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border-bottom: solid 2px white;
+    border-right: solid 2px white;
+}
